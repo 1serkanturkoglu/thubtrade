@@ -1,0 +1,5 @@
+
+eqwqeqw
+{{$degisken_isim}}
+
+
